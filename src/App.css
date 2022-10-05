@@ -1,0 +1,31 @@
+.background {
+    background-image: url("backgorund.jpg");
+    margin: auto;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    color: white;
+}
+ .btn-primary {
+    color: black;
+    background-color:thistle;
+ }
+.weatherResultBox {
+    margin: auto;
+    width: 300px;
+    height: 200px;
+    background-color:thistle;
+}
+
+.weatherCity{
+    padding: 20px;
+    font-size: 35px;
+}
+
+.weatherTemp {
+    margin-top: 10px;
+    font-size: 55px;
+    font-weight: 700;
+}
